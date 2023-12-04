@@ -1,8 +1,8 @@
 this directory contains an accessory function that adds statistics to a ggplot object
 
-''' {r}
+``` {r}
 add_stats(p, comps, DEFAULTS)
-'''
+```
 where p is the ggplot object
 comps is a list of comparisons you would like to make
 example list:
