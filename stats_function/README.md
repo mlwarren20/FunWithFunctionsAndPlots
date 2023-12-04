@@ -13,8 +13,8 @@ list(c("Setosa", "Versicolor"),
      c("Versicolor", "Virginica"),
     # ....  as long as you would like, each comparison is a new statistical pairing
 )
+```
 
-
-* note: the comps list needs to be in the order that you want comparisons to appear*
+* note: the comps list needs to be in the order that you want comparisons to appear *
 the first comparison will appear lowest in the significance bars, and will build upwards
 
